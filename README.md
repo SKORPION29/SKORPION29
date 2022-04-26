@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKORPION29&show_icons=true&theme=radical)
 
-- 🔭 I'm currently working on Android Development!
+- 🔭 I'm currently working on Android Development
 - 📚 I'm currently studying Medicals
 
 # Still learning, Hope to see you around!
