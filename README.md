@@ -1,4 +1,4 @@
-## Hi there, I'm Sayan Sarkar! 👋
+## Hi there, I'm Sayan Sarkar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Nice to see you here!
 
@@ -13,10 +13,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKORPION29&show_icons=true&theme=radical)
 
-- 🔭 I'm currently working on Android Development
 - 📚 I'm currently studying Medicals
+- 🔭 I'm currently working on Android Development
 
-# Still learning, Hope to see you around!
+### Still learning, Hope to see you around!
 
 <!--
 **SKORPION29/SKORPION29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
