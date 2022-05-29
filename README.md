@@ -11,7 +11,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=SKORPION29&style=flat-square&color=86d62f)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKORPION29&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKORPION29&show_icons=true&theme=algolia)
 
 - 📚 I'm currently studying Medicals
 - 🔭 I'm currently working on Android Development
