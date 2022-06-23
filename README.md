@@ -1,4 +1,4 @@
-## Hey there! I'm Sayan Sarkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+## Hey there! I'm Sayan Sarkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Nice to see you here!
 
